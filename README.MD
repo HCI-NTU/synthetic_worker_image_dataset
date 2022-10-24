@@ -1,0 +1,1 @@
+Synthetic worker image dataset
